@@ -1,4 +1,4 @@
-# Smart Scanner - Text Recognition Privacy Policy
+# Smart Lens - Text Scanner OCR Privacy Policy
 ----
 
 I (Duy Pham) built the Smart Lens - Text Scanner OCR app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
