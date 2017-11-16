@@ -1,7 +1,7 @@
 # Smart Scanner - Text Recognition Privacy Policy
 ----
 
-Duy Pham (MMLab) built the Smart Lens - Text Scanner OCR app as a Free app. This SERVICE is provided by Duy Pham at no cost and is intended for use as is.
+I (Duy Pham) built the Smart Lens - Text Scanner OCR app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
