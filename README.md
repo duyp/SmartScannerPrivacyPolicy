@@ -23,7 +23,7 @@ Link to privacy policy of third party service providers used by the app
 
 [AdMob][2]
 
-[Facebook Audience Network] [4]
+[Facebook Audience Network][4]
 
 [Firebase Analytics][3]
 
