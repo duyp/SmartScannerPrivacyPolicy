@@ -23,6 +23,8 @@ Link to privacy policy of third party service providers used by the app
 
 [AdMob][2]
 
+[Facebook Audience Network] [4]
+
 [Firebase Analytics][3]
 
 ### Log Data
@@ -40,3 +42,4 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 [1]: https://www.google.com/policies/privacy/
 [2]: https://support.google.com/admob/answer/6128543?hl=en
 [3]: https://firebase.google.com/policies/analytics
+[4]: https://developers.facebook.com/products/audience-network
